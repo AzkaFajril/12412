@@ -2,3 +2,4 @@ DB_USER=azka0012
 DB_PASSWORD=azka0012
 ACCESS_TOKEN_SECRET=your_access_token_secret
 STRIPE_SECRET_KEY=sk_test_51RZuISQdqh6FHOVPYdcIUn1q2dfGZ81CketYxCwpQJmWZiKtIQFQlviT13VAWb3EQrsupLiH1YTUY9X37PHGarHj00oVATcR0a
+MONGO_URI=mongodb+srv://azka0012:azka0012@cluster0.zkzipyr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
